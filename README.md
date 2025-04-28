@@ -1,4 +1,4 @@
-🧠 AI Interview Bot
+🧠 Boterview
 A multilingual AI-powered interview bot built using AWS Chalice, OpenAI GPT, Gradio, and AWS Translate, designed to conduct personalized interview sessions, generate feedback, and store session data using DynamoDB.
 
 🌟 Features
